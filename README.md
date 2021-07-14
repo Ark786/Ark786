@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi Developer 👋sing 
+[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-read](https://youtube.com/developerfunnel)
+[![Website Badge](htpps://img.shields.io/badge/Website-Akash-green)](https://www.aakash.me)
+[![Website Badge](htpps://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
+I'm 
+Full stack Solution Architect
+the crossover between designand programminghas always beign of intrest to me, I've been lucky enought to work alongside some talented teams on number of high profile websites.I have wide range of skillsthat include back-end development using open source technologies (Nodejs,Python), design (working closely with designers), front-end development (React,Angular9,ReactJs,HTML5,CSS3,Javascript,Responsive,UX),Server Administrator(AMS,GCP,Azure), database(MongoDB,Cassendra,Mysql),CI/CD
 <!--
 **Ark786/Ark786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
